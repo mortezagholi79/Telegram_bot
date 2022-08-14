@@ -15,3 +15,6 @@ Press the start button
 Select a currency pair
 
 ![image](https://user-images.githubusercontent.com/104719377/184544433-4e0611f1-5ddf-4942-acf9-190c143ec07f.png)
+
+![image](https://user-images.githubusercontent.com/104719377/184544706-ced9d1af-7dcd-4217-a351-d5868e8b867a.png)
+
